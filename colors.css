@@ -1,0 +1,112 @@
+html {
+    background-color: white;
+    display: block;
+}
+
+/* heading */
+#mainhead {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* container */
+
+#container {
+    border: 1px black solid;
+    width: 80%;
+    padding: 10px 10px 40px 70px;
+    margin: 10px auto;
+}
+
+/* colors */
+
+
+.aquamarine {
+    background-color: rgb(127,255,212);
+    position: relative;
+}
+
+.pink {
+    background-color: rgb(255,20,147);
+    position: relative;
+}
+
+.coral {
+    background-color: rgb(255,127,80);
+}
+
+.darkblue {
+    background-color: rgb(0,0,139);
+}
+
+/* text */
+
+li {
+    line-height: 22px;
+}
+
+.blacktext {
+    color: white;
+}
+
+.pcolor {
+    font-size: 17px;
+    font-weight: 700px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+/* display */
+
+.color-display {
+    display: inline-block;
+    width: 20%;
+    padding: 80px 10px;
+    margin: auto 10px;
+    
+}
+
+#text-display {
+    display: inline-block;
+    width: 20%;
+    padding: 5px 10px;
+    margin: auto 10px;
+    
+}
+
+/* fonts */
+
+.barlow {
+    font-family: 'barlow condensed';
+}
+
+.shantell {
+    font-family: "Shantell sans";
+}
+
+.ibm {
+    font-size: 15px;
+    font-family: "IBM Plex mono";
+}
+
+/* font styles */
+
+
+.italics {
+    font-style: italic  ;
+    font-size: 15px;
+}
+
+.bold   {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.head  {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
